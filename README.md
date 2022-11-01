@@ -11,6 +11,6 @@ Data set from kaggle, you can download the complete data set by connecting below
 
 - [dataset](): Folders for storing pictures with different styles and fonts
 - [original_dataset]():Download the decompressed original data set from kaggle
-- [redataset.ipynb]("https://github.com/Kermit-Li/Font-style-recognition/blob/main/redataset.ipynbb"):Code file used to reclassify original data set into different font style files.
-- [resnet50.ipynb]("https://github.com/Kermit-Li/Font-style-recognition/blob/main/resnet50.ipynb"): Core code file. Establish resnet50 model based on pytorch, train and evaluate.
+- [redataset.ipynb](https://github.com/Kermit-Li/Font-style-recognition/blob/main/redataset.ipynb):Code file used to reclassify original data set into different font style files.
+- [resnet50.ipynb](https://github.com/Kermit-Li/Font-style-recognition/blob/main/resnet50.ipynb): Core code file. Establish resnet50 model based on pytorch, train and evaluate.
 
